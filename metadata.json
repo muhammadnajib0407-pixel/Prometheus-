@@ -1,0 +1,6 @@
+{
+  "name": "Prometheus AI",
+  "description": "Cyberpunk Underworld Tactical AI Assistant for covert operations, stealth protocols, and evasion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
